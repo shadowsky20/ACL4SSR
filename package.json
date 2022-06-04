@@ -1,0 +1,19 @@
+{
+  "name": "acl4ssr",
+  "version": "1.0.0",
+  "description": "acl4ssr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowsky20/ACL4SSR.git"
+  },
+  "author": "shadowsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadowsky20/ACL4SSR/issues"
+  },
+  "homepage": "https://github.com/shadowsky20/ACL4SSR#readme"
+}
